@@ -1,0 +1,16 @@
+{
+  "name": "botdidi",
+  "version": "1.0.0",
+  "description": "Bot Discord hébergé sur Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
